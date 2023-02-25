@@ -18,4 +18,4 @@ obj = produce_character()
 for i in range(1, 16):
     print(next(obj))
 
-print(__name__)
+print(__name__).......
